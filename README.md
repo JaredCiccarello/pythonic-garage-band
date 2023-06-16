@@ -1,5 +1,10 @@
 # pythonic-garage-band
-LAB - Class xx
-Project: Project Name Here
-Author: Student/Group Name
+LAB - 04
+Project: Lab: Garage Band with OOP
+Author: Jared Ciccarello
 Links and Resources
+
+Collaborators:
+Slava Makeev
+Tony Regalado
+Tammy Do
