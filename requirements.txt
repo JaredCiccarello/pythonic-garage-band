@@ -2,3 +2,15 @@ iniconfig==2.0.0
 packaging==23.1
 pluggy==1.0.0
 pytest==7.3.2
+
+Feature Tasks and Requirements
+Use Python classes to model a Band made up of different kinds of musicians.
+
+Start with Guitarist,Bassist, and Drummer.
+
+Make use of a Musician base class to handle common functionality which particular kinds of musicians will inherit.
+
+Each kind of Musician instance should have appropriate __str__ and __repr__ methods.
+
+Each kind of Musician instance should have a get_instrument method that returns string.
+Each kind of Musician instance should have a play_solo method that returns string.
